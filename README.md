@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadesh7781/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/aadesh7781/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aadesh7781/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/aadesh7781/leetcode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aadesh7781/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aadesh7781/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aadesh7781/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/aadesh7781/leetcode/tree/master/0443-string-compression) |
 ## Queue
 |  |
 | ------- |
