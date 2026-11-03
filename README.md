@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/aadesh7781/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aadesh7781/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadesh7781/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Enumeration
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aadesh7781/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadesh7781/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aadesh7781/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadesh7781/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aadesh7781/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aadesh7781/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
