@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/aadesh7781/leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
 ## Enumeration
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
