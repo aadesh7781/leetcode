@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aadesh7781/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/aadesh7781/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aadesh7781/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aadesh7781/leetcode/tree/master/0263-ugly-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aadesh7781/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aadesh7781/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aadesh7781/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aadesh7781/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aadesh7781/leetcode/tree/master/0509-fibonacci-number) |
 ## Algorithm X
 |  |
