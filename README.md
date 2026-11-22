@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aadesh7781/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadesh7781/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aadesh7781/leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/aadesh7781/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/aadesh7781/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aadesh7781/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aadesh7781/leetcode/tree/master/0053-maximum-subarray) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadesh7781/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/aadesh7781/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/aadesh7781/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aadesh7781/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aadesh7781/leetcode/tree/master/0242-valid-anagram) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aadesh7781/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/aadesh7781/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
